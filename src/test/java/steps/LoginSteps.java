@@ -14,7 +14,7 @@ import tests.BaseTest;
 import java.io.IOException;
 import java.util.Map;
 
-public class MainSteps extends BaseTest {
+public class LoginSteps extends BaseTest {
     String browser = Reporter.getCurrentTestResult().getTestContext().getCurrentXmlTest().getParameter("browser");
     String wait = Reporter.getCurrentTestResult().getTestContext().getCurrentXmlTest().getParameter("wait");
     String quit = Reporter.getCurrentTestResult().getTestContext().getCurrentXmlTest().getParameter("quit");
