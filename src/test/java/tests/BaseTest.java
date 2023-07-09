@@ -36,7 +36,7 @@ public class BaseTest {
         env = env.toUpperCase();
         switch (env) {
             case "PROD": {
-                driver.get("https://www.extremeintimo.com/");
+                driver.get("https://rs.extremeintimo.com/");
             }
             break;
             default:
