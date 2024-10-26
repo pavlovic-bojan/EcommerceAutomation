@@ -1,4 +1,4 @@
-# Ecommerce UI Automation
+# Ecommerce UI Automation Automation Java Selenium Cucumber TestNG Allure
 ***
 This repository is the result of my independent project to train certain things in QA Automation UI.
 
